@@ -21,7 +21,7 @@ Sample of collected data:
 
 Here’s a screenshot of the scraper output:
 
-![screenshot](screenshot.png)  
+![screenshot](screenshot.PNG)  
 
 ---
 Project of my Web Scraping with Python learning journey.
